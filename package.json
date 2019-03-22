@@ -1,0 +1,19 @@
+{
+  "name": "castorn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.1",
+    "mkdirp": "^0.5.1",
+    "protractor-beautiful-reporter": "^1.2.7"
+  }
+}
